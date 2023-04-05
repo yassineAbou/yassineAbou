@@ -22,6 +22,20 @@ I'm Yassine Abouabdellah, a 21-year-old junior Android developer who's self-taug
 I am enthusiastic about exploring the extensive possibilities of Kotlin development, which is a powerful and versatile programming language suitable for various applications such as cross-platform development, server-side development and  Web development.
 
 ### 🤝 Connect with me
+- Email: yourname@gmail.com
+- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
