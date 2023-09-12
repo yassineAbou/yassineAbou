@@ -1,11 +1,11 @@
 ### 👋 Hi there
-I'm Yassine Abouabdellah, a 21-year-old junior Android developer who's self-taught and based in Morocco. Football and anime are two of my interests, and I enjoy working on Android projects.
+I am Yassine Abouabdellah, a 21-year-old self-taught Android developer based in Morocco. Despite My inability to attend college, my passion for technology and unwavering determination led me to excel in Android development. With interests in football and anime, I continuously seek growth and knowledge in my domain, aiming to consistently enhance my skills and become a leading developer.
 
-### ![Play Store](https://github.com/yassineAbou/yassineAbou/blob/master/google-play(2).png) Apps I've Published on Play Store
-<a href="https://play.google.com/store/apps/details?id=com.example.app1"><img src="https://github.com/yassineAbou/yassineAbou/blob/master/calculator.png" width="80"></a>   <a href="https://play.google.com/store/apps/details?id=com.example.app2"><img src="https://github.com/yassineAbou/yassineAbou/blob/master/weather.png" width="80"></a>   <a href="https://play.google.com/store/apps/details?id=com.example.app3"><img src="https://github.com/yassineAbou/yassineAbou/blob/master/clock.png" width="80"></a>
+### My apps
+<a href="https://github.com/yassineAbou/Clock"><img src="https://github.com/yassineAbou/yassineAbou/blob/master/clock.png" width="80"></a>   <a href="https://github.com/yassineAbou/Calculator"><img src="https://github.com/yassineAbou/yassineAbou/blob/master/calculator.png" width="80"></a>   <a href="https://github.com/yassineAbou/Weather"><img src="https://github.com/yassineAbou/yassineAbou/blob/master/weather.png" width="80"></a>
 
 ### 💻 Skills and tools
-<img src="https://img.icons8.com/color/48/000000/kotlin.png"/> Kotlin &nbsp;&nbsp;&nbsp;
+<img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" width="50" height="50"/> Kotlin &nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java &nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/database.png"/> Room &nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/api-settings.png"/> REST APIs &nbsp;&nbsp;&nbsp;
@@ -22,8 +22,8 @@ I'm Yassine Abouabdellah, a 21-year-old junior Android developer who's self-taug
 I am enthusiastic about exploring the extensive possibilities of Kotlin development, which is a powerful and versatile programming language suitable for various applications such as cross-platform development, server-side development and  Web development.
 
 ### 🤝 Connect with me
-- Email: yourname@gmail.com
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
+- Email: Abouyassine056@gmail.com
+- LinkedIn: [Yassine Abouabdellah](https://www.linkedin.com/in/yassineabou/)
 
 
 
