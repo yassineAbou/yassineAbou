@@ -19,7 +19,7 @@ I am Yassine Abouabdellah, a 21-year-old self-taught Android developer based in 
 <img src="https://en.proft.me/media/android/android_di.png" width="50"/> Dependency Injection
 
 ### 🚀 Future projects
-I am enthusiastic about exploring the extensive possibilities of Kotlin development, which is a powerful and versatile programming language suitable for various applications such as cross-platform development, server-side development and  Web development.
+I’m excited about using Kotlin MultiPlatform for mobile to create cross-mobile applications and about learning Web Development to create web applications.
 
 ### 🤝 Connect with me
 - Email: Abouyassine056@gmail.com
