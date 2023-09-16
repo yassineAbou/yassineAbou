@@ -9,6 +9,7 @@ I am Yassine Abouabdellah, a 21-year-old self-taught Android developer based in 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java &nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/database.png"/> Room &nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/api-settings.png"/> REST APIs &nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/android-os.png"/> Baseline Profile &nbsp;&nbsp;&nbsp;
 <img src="https://developer.android.com/static/images/kotlin/pathway.png" width="50"/> Coroutines &nbsp;&nbsp;&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhhmRBTYT9SCctmEmdnMnHa8oqXQLZGYklZ_d196n&s" width="50"/> Jetpack Compose <br>
 <img src="https://img.icons8.com/color/48/000000/android-os.png"/> Android Components &nbsp;&nbsp;&nbsp;
