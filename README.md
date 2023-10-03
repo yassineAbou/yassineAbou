@@ -1,5 +1,5 @@
 ### 👋 Hi there
-I am Yassine Abouabdellah, a 21-year-old self-taught Android developer based in Morocco. Despite My inability to attend college, my passion for technology and unwavering determination led me to excel in Android development. With interests in football and anime, I continuously seek growth and knowledge in my domain, aiming to consistently enhance my skills and become a leading developer.
+I am Yassine Abouabdellah, a dedicated and self-taught Android developer since 2020, driven by a passion for technology and unwavering determination. Committed to continuous learning and growth within the Android development field, I am eager to excel and deliver high-quality solutions.
 
 ### My apps
 <a href="https://github.com/yassineAbou/Clock"><img src="https://github.com/yassineAbou/yassineAbou/blob/master/clock.png" width="80"></a>   <a href="https://github.com/yassineAbou/Calculator"><img src="https://github.com/yassineAbou/yassineAbou/blob/master/calculator.png" width="80"></a>   <a href="https://github.com/yassineAbou/Weather"><img src="https://github.com/yassineAbou/yassineAbou/blob/master/weather.png" width="80"></a>
