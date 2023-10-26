@@ -20,7 +20,7 @@ I am Yassine Abouabdellah, a dedicated and self-taught Android developer since 2
 <img src="https://en.proft.me/media/android/android_di.png" width="50"/> Dependency Injection
 
 ### 🚀 Future projects
-I’m excited about using Kotlin MultiPlatform for mobile to create cross-mobile applications and about learning Web Development to create web applications.
+I’m excited about using Kotlin MultiPlatform for mobile to create cross-mobile applications and about learning Go for backend.
 
 ### 🤝 Connect with me
 - Email: Abouyassine056@gmail.com
