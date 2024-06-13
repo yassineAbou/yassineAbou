@@ -11,7 +11,7 @@
 
 
 # 🚀 New Kotlin Multiplatform Project
-<a href="https://github.com/yassineAbou/Clock"><img src="https://imgur.com/9atzLry.png" width="125" height = "125"></a>
+<a href="https://github.com/yassineAbou/LLMS"><img src="https://imgur.com/9atzLry.png" width="125" height = "125"></a>
 <br>This project is currently in development phase.
 
 
