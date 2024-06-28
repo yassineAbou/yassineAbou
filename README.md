@@ -1,5 +1,5 @@
 # 👋 About Me
- I am enthusiastic about  using Kotlin Multiplatform to create smooth, high-quality apps that perform  excellently on various devices.
+ I am enthusiastic about creating smooth, high-quality mobile apps that perform excellently on both Android and iOS devices.
 
 
 # 🧑‍💻 Skills and tools
