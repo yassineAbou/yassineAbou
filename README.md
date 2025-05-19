@@ -10,7 +10,7 @@ Passionate Android developer with a strong focus on building high-quality applic
 
 
 # 🚀 New Kotlin Multiplatform Project
-<a href="https://github.com/yassineAbou/LLMS"><img src="https://i.imgur.com/aBVZRPL.png" width="125" height = "125"></a>
+<a href="https://github.com/yassineAbou/LLMS"><img src="https://imgur.com/mVICjDJ.png" width="125" height = "125"></a>
 <br>Discover the power of AI with our Kotlin Multiplatform app. Choose from the latest open-source text and image models to boost your creativity. Pick the model that fits you, create unique texts or images.
 
 # 📱 My apps
